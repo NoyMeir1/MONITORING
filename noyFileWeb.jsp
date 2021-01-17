@@ -1,5 +1,3 @@
-
-<%@page contentType="text/html" import="java.util.*" %> 
 <html>
 <body>
 <p>&nbsp;</p>
